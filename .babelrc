@@ -1,0 +1,6 @@
+{
+  "plugins": [],
+  "presets": ["env"],
+  "ignore": [],
+  "retainLines": true
+}
